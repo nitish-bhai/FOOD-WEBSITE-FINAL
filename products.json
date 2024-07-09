@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "name":" Egg Curry",
+        "price": 99,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" Fish Curry",
+        "price": 199,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" Chilli Fish Curry",
+        "price": 199,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" Chiken Curry",
+        "price": 249,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" Chiken Biryani",
+        "price": 150,
+        "image": "image/5.png"
+    },
+
+    {
+        "id": 6,
+        "name":" Pizza",
+        "price": 200,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" Burger",
+        "price": 49,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" Egg Biryani",
+        "price": 80,
+        "image": "image/8.png"
+    }
+
+    ,
+    {
+        "id": 2,
+        "name":" Fish Curry",
+        "price": 199,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" Chilli Fish Curry",
+        "price": 199,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" Chiken Curry",
+        "price": 249,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" Chiken Biryani",
+        "price": 150,
+        "image": "image/5.png"
+    },
+
+    {
+        "id": 6,
+        "name":" Pizza",
+        "price": 200,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" Burger",
+        "price": 49,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" Egg Biryani",
+        "price": 80,
+        "image": "image/8.png"
+    }
+    ,
+    {
+        "id": 8,
+        "name":" Egg Biryani",
+        "price": 80,
+        "image": "image/8.png"
+    }
+
+]
